@@ -3,7 +3,7 @@
 <div style="text-align: center;">
 <hr/>
     <a href="#skills">Skills</a> |
-    <a href="#">About Me</a> |
+    <a href="#about-me">About Me</a> |
     <a href="#continuing-learning">Continuing Learning</a>
 <hr/>
 </div>
@@ -28,6 +28,10 @@
 * Power BI
 
 <hr/>
+
+# About me
+
+If you know me, you know I ***love*** the beach. It is my goal to buy a home right on the water one day; that's my life goal. I love to snorkel and look for shells with my wife. I love reading, fine whiskey, and cooking great food. I'm always learning something; and I don't like to stop taking life in. I'm very excited about a tech career working with data, because I believe I can use all my skills, meet likeminded people, and achieve my ultimate goal.
 
 # Continuing Learning
 
