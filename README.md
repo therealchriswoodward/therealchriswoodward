@@ -47,7 +47,7 @@ If you know me, you know I ***love*** the beach. It is my goal to buy a home rig
 
 <hr/>
 
-| ![IBM Data Analyst Capstone Project](data-analyst-capstone-project.png) | ### IBM Data Analyst Capstone Project <br> I completed the capstone project for the 11-course professional certificate. |
+| ![IBM Data Analyst Capstone Project](data-analyst-capstone-project.png) | <h1>IBM Data Analyst Capstone Project</h1> <br> I completed the capstone project for the 11-course professional certificate. |
 |:---:|---|
 
 
