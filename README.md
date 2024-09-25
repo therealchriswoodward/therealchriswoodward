@@ -39,3 +39,10 @@
 </div>
 
 <hr/>
+
+<hr/>
+
+| ![IBM Data Analyst Capstone Project](data-analyst-capstone-project.png) | <h2>IBM Data Analyst Capstone Project</h2> <br> I completed the capstone project for the 11-course professional certificate. |
+|:---:|---|
+
+<hr/>
