@@ -40,12 +40,3 @@
 </div>
 
 <hr/>
-
-<div style="display: flex; align-items: center;">
-    <img src="data-analyst-capstone-project.png" alt="Description" style="width: 150px; height: auto; margin-right: 20px;"/>
-    <div>
-        <h2>IBM Data Analyst Capstone Project</h2>
-        <p>I completed the capstone project for the 11-course professional certificate.</p>
-    </div>
-</div>
-<hr/>
