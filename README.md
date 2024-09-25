@@ -44,11 +44,3 @@ If you know me, you know I ***love*** the beach. It is my goal to buy a home rig
 <img src="data-analyst-capstone-project.png" alt="Badge 1" width="200"/>
 
 </div>
-
-<hr/>
-
-| ![IBM Data Analyst Capstone Project](data-analyst-capstone-project.png) | <h2>IBM Data Analyst Capstone Project</h2> <br> I completed the capstone project for the 11-course professional certificate. |
-|:---:|---|
-
-
-<hr/>
