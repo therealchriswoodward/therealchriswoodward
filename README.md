@@ -40,3 +40,8 @@
 </div>
 
 <hr/>
+
+# Certificates
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+<img src="data-analysis-with-python.png" alt="Badge 1" width="200"/>
+<img src="data-visualization-with-python.png" alt="Badge 1" width="200"/>
