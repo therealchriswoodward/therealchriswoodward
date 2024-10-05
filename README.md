@@ -3,7 +3,8 @@
 <div style="text-align: center;">
 <hr/>
     <a href="#skills">Skills</a> |
-    <a href="#continuing-learning">Continuing Learning</a>
+    <a href="#continuing-learning">Continuing Learning</a> | 
+    <a href="#certificates">Certificates</a>
 <hr/>
 </div>
 
