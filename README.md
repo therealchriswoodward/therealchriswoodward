@@ -15,6 +15,7 @@
     * MatPlotLib
     * Seaborn
     * SKLearn
+    * OOP (Object-Oriented Programming)
 
 * Excel
 
