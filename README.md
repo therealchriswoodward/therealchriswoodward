@@ -1,4 +1,6 @@
+<div align="center">
 <h1 style="text-align: center; border: none; padding: 0;">Christopher Woodward</h1>
+</div>
 
 <div style="text-align: center;">
 <hr/>
