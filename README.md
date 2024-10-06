@@ -13,6 +13,7 @@
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=therealchriswoodward&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true)
 
+***
 
 </div>
 
