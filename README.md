@@ -17,6 +17,9 @@
     * Numpy
     * MatPlotLib
     * Seaborn
+    * Webscraping
+      * Selenium
+      * BeatifulSoup
     * SKLearn
     * OOP (Object-Oriented Programming)
 
