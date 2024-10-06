@@ -1,5 +1,3 @@
-***
-
 <div align="center">
     <h1>Christopher Woodward</h1>
 </div>
