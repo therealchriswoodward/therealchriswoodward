@@ -67,6 +67,8 @@ If you know me, you know I ***love*** the beach. It is my goal to buy a home rig
 
 ***
 
+# GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=therealchriswoodward&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=therealchriswoodward&layout=compact)
