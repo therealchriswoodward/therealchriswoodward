@@ -4,10 +4,12 @@
 
 <div align="center">
 <hr/>
+<h3>
     <a href="#skills">Skills</a> |
     <a href="#about-me">About Me</a> |
     <a href="#continuing-learning">Continuing Learning</a> | 
     <a href="#certificates">Certificates</a>
+</h3>    
 </div>
 <hr/>
 
