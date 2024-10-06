@@ -71,7 +71,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=therealchriswoodward)](https://git.io/streak-stats)
 
-</hr>
+***
 
 # About me
 
