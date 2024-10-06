@@ -1,7 +1,9 @@
 ***
 
 <div align="center">
-<h1>Christopher Woodward</h1>
+<div style="border-bottom: none;">
+    <h1>Christopher Woodward</h1>
+</div>
 </div>
 
 <div align="center">
