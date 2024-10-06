@@ -1,3 +1,4 @@
+<div style="font-family : 'Times New Roman', Times, serif;" 
 <h1 style="text-align: center; border: none; padding: 0;">Christopher Woodward</h1>
 
 <div style="text-align: center;">
@@ -57,4 +58,6 @@ If you know me, you know I ***love*** the beach. It is my goal to buy a home rig
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
 <img src="https://github.com/therealchriswoodward/therealchriswoodward/blob/main/IBM%20Data%20Analyst%20Certificate.png?raw=true" alt="IBM Certificate" width="500"/>
 <img src="https://github.com/therealchriswoodward/therealchriswoodward/blob/main/Google%20Advanced%20Data%20Analytics%20Certificate.png?raw=true" alt="Google Certificate" width="500"/>
+
+</div>
 
