@@ -9,7 +9,7 @@
 
 <hr/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=therealchriswoodward) ![Python](https://img.shields.io/badge/Python-My%20Strongest%20Skill-skyblue?style=flat&logo=python) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-My%20Favorite%20Notebook-skyblue?logo=jupyter&logoColor=orange)
+![Profile Views](https://komarev.com/ghpvc/?username=therealchriswoodward) ![Python](https://img.shields.io/badge/Python-My%20Strongest%20Skill-9FE2BF?style=flat&logo=python) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-My%20Favorite%20Notebook-skyblue?logo=jupyter&logoColor=orange)
 ![Google Colab](https://img.shields.io/badge/Collab-My%20Second%20Favorite-9FE2BF?logo=googlecolab&logoColor=orange)
 
 
