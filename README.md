@@ -2,7 +2,7 @@
 
 <div style="text-align: center;">
 <hr/>
-    <a href="#skills" style="color: #FF5733;">Skills</a> |
+    <a href="#skills">Skills</a> |
     <a href="#about-me">About Me</a> |
     <a href="#continuing-learning">Continuing Learning</a> | 
     <a href="#certificates">Certificates</a>
