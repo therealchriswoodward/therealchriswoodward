@@ -8,7 +8,9 @@
     <a href="#certificates">Certificates</a>
 
 <hr/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=therealchriswoodward)
+
 </div>
 
 ### <u>Skills:</u>
