@@ -14,7 +14,7 @@
 
 
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=therealchriswoodward&bg_color=000000&color=00ff00&line=9FE2BF&point=9FE2BF&area=true&hide_border=true)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=therealchriswoodward&bg_color=000000&color=9FE2BF&line=9FE2BF&point=9FE2BF&area=true&hide_border=true)
 
 ***
 
