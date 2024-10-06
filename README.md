@@ -1,7 +1,7 @@
 ***
 
 <div align="center">
-<h1 border="none">Christopher Woodward</h1>
+<h1>Christopher Woodward</h1>
 </div>
 
 <div align="center">
