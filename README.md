@@ -50,6 +50,7 @@
 
 <hr/>
 
+<div align="center">
 # Continuing Learning
 
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
@@ -82,5 +83,5 @@
 # About me
 
 If you know me, you know I ***love*** the beach. It is my goal to buy a home right on the water one day; that's my _life_ goal. I love to snorkel and look for shells with my wife. I love reading, fine whiskey, and cooking great food. I'm always learning something; and I don't like to stop taking life in. I'm very excited about a tech career working with data, because I believe I can use all my skills, meet likeminded people, and achieve my ultimate goal.
-
+</div>
 <hr/>
