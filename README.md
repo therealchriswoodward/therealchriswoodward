@@ -2,13 +2,13 @@
 <h1>Christopher Woodward</h1>
 </div>
 
-<div style="text-align: center;">
+<div align="center">
 <hr/>
     <a href="#skills">Skills</a> |
     <a href="#about-me">About Me</a> |
     <a href="#continuing-learning">Continuing Learning</a> | 
     <a href="#certificates">Certificates</a>
-
+</div>
 <hr/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=therealchriswoodward) ![Python](https://img.shields.io/badge/Python-My%20Strongest%20Skill-9FE2BF?style=flat&logo=python) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-My%20Favorite%20Notebook-skyblue?logo=jupyter&logoColor=orange)
