@@ -10,7 +10,7 @@
 <hr/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=therealchriswoodward) ![Python](https://img.shields.io/badge/Python-seafoam?style=flat&logo=python) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-skyblue?logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Collab-skyblue?logo=Google%20Collabb&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Collab-skyblue?logo=googlecollab&logoColor=white)
 
 
 
