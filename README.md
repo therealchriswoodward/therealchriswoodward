@@ -49,13 +49,6 @@ If you know me, you know I ***love*** the beach. It is my goal to buy a home rig
 <img src="generative-ai-essentials-for-data-analytics.png" alt="Badge 1" width="200"/>
 <img src="data-analyst-capstone-project.png" alt="Badge 1" width="200"/>
 
-***
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=therealchriswoodward&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=therealchriswoodward&layout=compact)
-
-
 <hr/>
 
 # Certificates
@@ -64,3 +57,9 @@ If you know me, you know I ***love*** the beach. It is my goal to buy a home rig
 <img src="https://github.com/therealchriswoodward/therealchriswoodward/blob/main/Google%20Advanced%20Data%20Analytics%20Certificate.png?raw=true" alt="Google Certificate" width="500"/>
 
 </div>
+
+***
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=therealchriswoodward&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=therealchriswoodward&layout=compact)
