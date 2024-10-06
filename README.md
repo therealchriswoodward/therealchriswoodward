@@ -11,9 +11,10 @@
 </div>
 <hr/>
 
+<div align="center">
 ![Profile Views](https://komarev.com/ghpvc/?username=therealchriswoodward) ![Python](https://img.shields.io/badge/Python-My%20Strongest%20Skill-9FE2BF?style=flat&logo=python) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-My%20Favorite%20Notebook-skyblue?logo=jupyter&logoColor=orange)
 ![Google Colab](https://img.shields.io/badge/Collab-My%20Second%20Favorite-9FE2BF?logo=googlecolab&logoColor=orange)
-
+</div>
 
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=therealchriswoodward&bg_color=000000&color=00BFFF&line=9FE2BF&point=00BFFF&area=true&hide_border=true)
