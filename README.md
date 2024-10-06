@@ -9,7 +9,7 @@
 
 <hr/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=therealchriswoodward) ![Python](https://img.shields.io/badge/Python-#2E8B57?style=flat&logo=python)
+![Profile Views](https://komarev.com/ghpvc/?username=therealchriswoodward) ![Python](https://img.shields.io/badge/Python-seafoam?style=flat&logo=python)
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=therealchriswoodward&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true)
 
