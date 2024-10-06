@@ -1,5 +1,5 @@
-<div style="font-family : 'Times', Times, serif;" 
-    
+<div style="font-family: 'Times New Roman', Times, serif;">
+
 <h1 style="text-align: center; border: none; padding: 0;">Christopher Woodward</h1>
 
 <div style="text-align: center;">
@@ -51,8 +51,6 @@ If you know me, you know I ***love*** the beach. It is my goal to buy a home rig
 <img src="generative-ai-essentials-for-data-analytics.png" alt="Badge 1" width="200"/>
 <img src="data-analyst-capstone-project.png" alt="Badge 1" width="200"/>
 
-</div>
-
 <hr/>
 
 # Certificates
@@ -62,3 +60,4 @@ If you know me, you know I ***love*** the beach. It is my goal to buy a home rig
 
 </div>
 
+</div>
