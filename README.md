@@ -63,12 +63,6 @@ If you know me, you know I ***love*** the beach. It is my goal to buy a home rig
 
 ***
 
-# Machine Learning
-
-[Linear Regression Model](https://github.com/therealchriswoodward/Machine-Learning-Linear-Regression-Model)
-
-<hr/>
-
 <div align="center">
     
 # Continuing Learning
