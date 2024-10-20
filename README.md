@@ -78,10 +78,10 @@ If you know me, you know I ***love*** the beach. It is my goal to buy a home rig
 <img src="data-visualization-with-python.png" alt="Badge 2" width="200"/>
 <img src="generative-ai-essentials-for-data-analytics.png" alt="Badge 3" width="200"/>
 <img src="data-analyst-capstone-project.png" alt="Badge 4" width="200"/>
-<img src="data-science-methodology.png" alt="Badge 5" width="200/>
-<img src="data-science-orientation.png" alt="Badge 5" width="200"/>
-<img src="machine-learning-with-python.png" alt="Badge 6" width="200/>
-<img src="tools-for-data-science-v2.png" alt="Badge 7" width="200"/>
+<img src="data-science-methodology.png" alt="Badge 5" width="200"/>
+<img src="data-science-orientation.png" alt="Badge 6" width="200"/>
+<img src="machine-learning-with-python.png" alt="Badge 7" width="200"/>
+<img src="tools-for-data-science-v2.png" alt="Badge 8" width="200"/>
 
 <hr/>
 
