@@ -31,6 +31,7 @@ If you know me, you know I ***love*** the beach. It is my goal to buy a home rig
 </div>
 
 ***
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=therealchriswoodward&layout=compact)
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=therealchriswoodward&bg_color=000000&color=00BFFF&line=9FE2BF&point=00BFFF&area=true&hide_border=true)
 
@@ -86,12 +87,6 @@ If you know me, you know I ***love*** the beach. It is my goal to buy a home rig
 <img src="https://github.com/therealchriswoodward/therealchriswoodward/blob/main/IBM%20Data%20Science.png?raw=true" alt="IBM Data Science" width="500"/>
 
 </div>
-
-***
-
-# GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=therealchriswoodward&layout=compact)
 
 ***
 </div>
